@@ -9,7 +9,7 @@
 
 swaggerUI 截图：
 
-![swagger](https://s1.328888.xyz/2022/07/03/Odb0.png)
+![swagger](https://s1.328888.xyz/2022/09/07/5YsZ0.png)
 
 ##### 极验3代：
 
@@ -32,7 +32,7 @@ swaggerUI 截图：
 ![极验4代](https://s1.328888.xyz/2022/09/07/5YksE.png)
 
 
-![数美滑块]([https://s1.328888.xyz/2022/09/07/5Y9Ow.png](https://s1.328888.xyz/2022/09/07/5Y9Ow.png))
+![数美滑块](https://s1.328888.xyz/2022/09/07/5Y9Ow.png)
 
 
 已支持数美和安居客的滑块
